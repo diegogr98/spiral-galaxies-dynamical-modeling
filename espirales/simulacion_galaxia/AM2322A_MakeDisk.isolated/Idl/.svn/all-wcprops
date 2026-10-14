@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cosmo-group/!svn/ver/1259/tools/MakeNewDisk/Idl
+END
+read_particles.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cosmo-group/!svn/ver/703/tools/MakeNewDisk/Idl/read_particles.pro
+END
+plot_surface.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cosmo-group/!svn/ver/703/tools/MakeNewDisk/Idl/plot_surface.pro
+END
+plot_eqs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cosmo-group/!svn/ver/703/tools/MakeNewDisk/Idl/plot_eqs.pro
+END
+comp_pdens.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cosmo-group/!svn/ver/703/tools/MakeNewDisk/Idl/comp_pdens.pro
+END
+plot_xyz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cosmo-group/!svn/ver/703/tools/MakeNewDisk/Idl/plot_xyz.pro
+END
+compare_profiles.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cosmo-group/!svn/ver/703/tools/MakeNewDisk/Idl/compare_profiles.pro
+END
+ShowDisk.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cosmo-group/!svn/ver/704/tools/MakeNewDisk/Idl/ShowDisk.pro
+END
+plot_Q.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cosmo-group/!svn/ver/703/tools/MakeNewDisk/Idl/plot_Q.pro
+END
+read_fields.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cosmo-group/!svn/ver/703/tools/MakeNewDisk/Idl/read_fields.pro
+END
+plot_veldisp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cosmo-group/!svn/ver/703/tools/MakeNewDisk/Idl/plot_veldisp.pro
+END
+HaloProfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cosmo-group/!svn/ver/704/tools/MakeNewDisk/Idl/HaloProfile.pro
+END
+StripHalo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cosmo-group/!svn/ver/1259/tools/MakeNewDisk/Idl/StripHalo.pro
+END
+plot_vc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cosmo-group/!svn/ver/703/tools/MakeNewDisk/Idl/plot_vc.pro
+END
+plot_cummass.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cosmo-group/!svn/ver/703/tools/MakeNewDisk/Idl/plot_cummass.pro
+END
+plot_gasdensity.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cosmo-group/!svn/ver/703/tools/MakeNewDisk/Idl/plot_gasdensity.pro
+END
+DiskProfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cosmo-group/!svn/ver/704/tools/MakeNewDisk/Idl/DiskProfile.pro
+END
+BulgeProfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cosmo-group/!svn/ver/704/tools/MakeNewDisk/Idl/BulgeProfile.pro
+END

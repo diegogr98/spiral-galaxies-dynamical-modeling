@@ -1,0 +1,49 @@
+OutputDir      /home/jcmunoz/Dropbox/Cursos/pregrado/AnaMariaL/AM2322A_MakeDisk.gizmo_New_LR.ana/AQA_perturbers/              % Output directory
+OutputFile     AQA_host_RigidHalo_perturbers.giz                                                           % Filename of generated initial conditions
+
+CC             16.0  
+V200           179.4    	  % circular velocity v_200 (in km/sec)
+M200	       183.9
+R200	       245.7
+LAMBDA         0.04               % spin parameter          
+MD             0.01           % disk mass fraction      
+MB             0.01           % bulge mass fraction     
+
+MBH            0.0000             % black hole mass fraction. If zero, no black
+                                  % hole is generated, otherwise one at the centre
+                                  % is added.
+ 
+%JD            0.0
+JD     	       0.010927
+
+GasFraction    0.1                % relative content of gas in the disk, the rest is stars
+DiskHeight     0.06               % thickness of stellar disk in units of radial scale length 
+BulgeSize      0.15                % bulge scale length in units of disk scale length 
+
+N_HALO         2000000           % desired number of particles in dark halo 
+N_DISK         1000000           % desired number of collisionless particles in disk 
+N_GAS          375000            % number of gas particles in disk
+N_BULGE        250000            % number of bulge particles 
+
+
+HI_GasMassFraction     0.0 	  % mass of extended, flat HI disk in terms of the total gas mass
+HI_GasDiskScaleLength  0	  % scale length of extended gas disk in terms of scale length of the disk 
+MaxGasDiskHeight       0.0	  % to prevent too big flaring of isothermal outer gas disk
+
+
+RadialDispersionFactor 1.0        % applies to stellar disk: Gives the radial
+                                  % dispersion in units of the z-dispersion
+
+
+MaxSfrTimescale     1.5           % Gas consumption timescale (multi-phase model)
+FactorSN            0.1           % beta, mass fraction of massive stars (multi-phase model)
+FactorEVP           1000          % A_0, evaporation parameter (multi-phase model)
+TempSupernova       1e+08         % T_SN, effective "supernova temperature",sets feedback energy (multi-phase model)
+TempClouds          1000          % temperature of cold clouds (multi-phase model)
+
+FactorForSofterEQS  1.0           % Can be used to make the equation of state
+                                  % softer. For 1.0, the multiphase model is
+				  % used, while for 0.0 isothermal at 10^4 K is
+				  % assumed. Intermediate values interpolate
+                                  % linearly between the two pressures.
+

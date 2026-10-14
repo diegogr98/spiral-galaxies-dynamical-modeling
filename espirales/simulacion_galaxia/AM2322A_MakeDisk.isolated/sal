@@ -1,0 +1,157 @@
+43007.1 0.1 978.028 
+fc=1.33427
+halo_spinfactor 0.310521
+R200: 185.401
+M200: 144.347
+RH: 27.9973
+Rs: 15.4501
+Total mass is: 189.184
+H = 7.36911
+Jd/J=0.0135149   hnew: 7.228  
+Jd/J=0.0132436   hnew: 7.10156  
+Jd/J=0.013   hnew: 6.98832  
+Jd/J=0.0127815   hnew: 6.88693  
+Jd/J=0.0125857   hnew: 6.79616  
+Jd/J=0.0124102   hnew: 6.71494  
+Jd/J=0.0122492   hnew: 6.64246  
+Jd/J=0.0121086   hnew: 6.57764  
+Jd/J=0.0119828   hnew: 6.51968  
+Jd/J=0.0118702   hnew: 6.46788  
+Jd/J=0.0117695   hnew: 6.42158  
+Jd/J=0.0116837   hnew: 6.37999  
+Jd/J=0.0116028   hnew: 6.34283  
+Jd/J=0.0115306   hnew: 6.30962  
+Jd/J=0.011466   hnew: 6.27996  
+Jd/J=0.0114083   hnew: 6.25347  
+Jd/J=0.0113567   hnew: 6.22981  
+Jd/J=0.0113107   hnew: 6.20868  
+Jd/J=0.0112695   hnew: 6.1898  
+Jd/J=0.0112328   hnew: 6.17296  
+Jd/J=0.0112   hnew: 6.15791  
+Jd/J=0.0111707   hnew: 6.14448  
+Jd/J=0.0111445   hnew: 6.13249  
+Jd/J=0.0111211   hnew: 6.12178  
+Jd/J=0.0111003   hnew: 6.11223  
+Jd/J=0.0110816   hnew: 6.1037  
+Jd/J=0.011065   hnew: 6.09609  
+Jd/J=0.0110502   hnew: 6.08929  
+Jd/J=0.0110369   hnew: 6.08322  
+Jd/J=0.0110251   hnew: 6.07781  
+Jd/J=0.0110146   hnew: 6.07298  
+Jd/J=0.0110051   hnew: 6.06867  
+Jd/J=0.0109967   hnew: 6.06482  
+Jd/J=0.0109892   hnew: 6.06138  
+Jd/J=0.0109825   hnew: 6.05832  
+Jd/J=0.0109766   hnew: 6.05558  
+Jd/J=0.0109712   hnew: 6.05314  
+Jd/J=0.0109665   hnew: 6.05096  
+Jd/J=0.0109622   hnew: 6.04902  
+Jd/J=0.0109584   hnew: 6.04728  
+Jd/J=0.010955   hnew: 6.04574  
+Jd/J=0.010952   hnew: 6.04435  
+Jd/J=0.0109493   hnew: 6.04312  
+Jd/J=0.0109469   hnew: 6.04202  
+Jd/J=0.0109448   hnew: 6.04104  
+Jd/J=0.0109429   hnew: 6.04016  
+Jd/J=0.0109412   hnew: 6.03938  
+Jd/J=0.0109396   hnew: 6.03868  
+Jd/J=0.0109383   hnew: 6.03806  
+Jd/J=0.0109371   hnew: 6.03751  
+Jd/J=0.010936   hnew: 6.03701  
+Jd/J=0.010935   hnew: 6.03657  
+Jd/J=0.0109342   hnew: 6.03617  
+Jd/J=0.0109334   hnew: 6.03582  
+Jd/J=0.0109327   hnew: 6.03551  
+Jd/J=0.0109321   hnew: 6.03523  
+Jd/J=0.0109315   hnew: 6.03497  
+Jd/J=0.010931   hnew: 6.03475  
+Jd/J=0.0109306   hnew: 6.03455  
+Jd/J=0.0109302   hnew: 6.03437  
+Jd/J=0.0109299   hnew: 6.03422  
+Jd/J=0.0109296   hnew: 6.03407  
+Jd/J=0.0109293   hnew: 6.03395  
+Jd/J=0.010929   hnew: 6.03383  
+Jd/J=0.0109288   hnew: 6.03373  
+Jd/J=0.0109286   hnew: 6.03364  
+Jd/J=0.0109285   hnew: 6.03356  
+Jd/J=0.0109283   hnew: 6.03349  
+Jd/J=0.0109282   hnew: 6.03343  
+Jd/J=0.010928   hnew: 6.03337  
+ after iteration disk scale length is 6.033372
+
+Use 304 MByte for BH-tree.
+
+Feedback energy per formed solar mass in stars= 4.65166e+48  ergs
+u4=210.482
+
+A0= 1000  
+Computed: PhysDensThresh= 0.000854758  (int units)         0.262935 h^2 cm^-3
+EXPECTED FRACTION OF COLD GAS AT THRESHOLD = 0.904362
+
+tcool=4.67228e-06 dens=0.027755 egyhot=2104.82
+set dummy particles...
+Start computing vertical force field.
+vert force field 0(512)
+set dummy particles...
+Start computing vertical force field.
+vert force field 0(512)
+set dummy particles...
+Start computing vertical force field.
+vert force field 0(512)
+set dummy particles...
+Start computing vertical force field.
+vert force field 0(512)
+set dummy particles...
+Start computing vertical force field.
+vert force field 0(512)
+Start computing force field.
+force field 0(512)
+Force field finished.
+comp vstream gas
+done
+disk velocity dispersion field...
+done.
+halo velocity dispersion field...
+done.
+bulge velocity dispersion field...
+done.
+set halo positions...
+set disk positions...
+set halo velocities...
+rangecount=285
+done.
+set disk velocities...done.
+set bulge velocities...done.
+
+Halo berofe:
+Mtot=189.184 xcm=3.33832 ycm=1.35404 zcm=8.49511
+Mtot=189.184 vxcm=-1.38935 vycm=0.625028 vzcm=0.231364
+Halo after:
+Mtot=189.184 xcm=4.79031e-13 ycm=1.82765e-13 zcm=1.16911e-12
+Mtot=189.184 vxcm=-1.86128e-13 vycm=7.75859e-14 vzcm=2.46006e-14
+
+Disk berofe:
+Mtot=1.57729 xcm=-0.265413 ycm=-0.0876815 zcm=0.00985294
+Mtot=1.57729 vxcm=3.9058 vycm=-3.98926 vzcm=-0.0886027
+Disk after:
+Mtot=1.57729 xcm=4.18095e-15 ycm=1.38494e-15 zcm=-1.38267e-16
+Mtot=1.57729 vxcm=-5.48093e-14 vycm=5.23336e-14 vzcm=2.53508e-15
+
+Bulge before:
+Mtot=0.473171 xcm=-2.54018 ycm=1.38268 zcm=0.880017
+Mtot=0.473171 vxcm=-1.35217 vycm=2.44267 vzcm=6.95077
+Bulge after:
+Mtot=0.473171 xcm=1.78359e-14 ycm=-1.0471e-14 zcm=-9.01877e-15
+Mtot=0.473171 vxcm=1.10572e-14 vycm=-2.22756e-14 vzcm=-5.25875e-14
+
+Cm galaxy before:
+Mtot=191.235 xcm=0.532725 ycm=1.91541 zcm=1.41274
+Mtot=191.235 vxcm=0 vycm=0 vzcm=0
+Cm galaxy after:
+Mtot=191.235 xcm=5.01047e-13 ycm=4.90576e-13 zcm=4.92029e-13
+Mtot=191.235 vxcm=0 vycm=0 vzcm=0
+saveing initial conditions to file `/home/larboleda/Maestria/AM2322-821/Initial_conditions/out/AM2322A_orbitas//AM2322-821_host_RL.gad'
+
+writing circular velocity curve + Toomre's Q
+done.
+Disk scale length: 6.03337
