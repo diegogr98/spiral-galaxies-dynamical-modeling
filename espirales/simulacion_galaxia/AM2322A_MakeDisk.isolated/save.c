@@ -247,7 +247,10 @@ void save_particles(char *fname)
       xyz[2] = zp_halo[i];
       fwrite(xyz, sizeof(float), 3, fd);
     }
+
   FILE *PF;
+  //char filenamedisk[2000];
+  //sprintf(filenamedisk,"%s%s","disco_", fname);
   PF = fopen("disco.dat","w");
   for(i = 1; i <= N_DISK; i++)
     {
@@ -255,7 +258,7 @@ void save_particles(char *fname)
       xyz[1] = yp_disk[i];
       xyz[2] = zp_disk[i];
       fwrite(xyz, sizeof(float), 3, fd);
-      fprintf(PF,"%lf %lf %lf\n",xp_disk[i],yp_disk[i],zp_disk[i]);
+      fprintf(PF,"%16.8lf %16.8lf %16.8lf %16.8lf %16.8lf %16.8lf\n",xp_disk[i], yp_disk[i], zp_disk[i], vxp_disk[i], vyp_disk[i], vzp_disk[i]);
     }
   fclose(PF);
   for(i = 1; i <= N_BULGE; i++)

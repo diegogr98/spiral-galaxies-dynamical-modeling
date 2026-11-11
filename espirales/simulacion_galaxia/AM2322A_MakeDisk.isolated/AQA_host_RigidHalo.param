@@ -1,13 +1,13 @@
 OutputDir      ./out/              % Output directory
-OutputFile     AQA_host_RigidHalo.giz                                                           % Filename of generated initial conditions
+OutputFile     AQA_host_RigidHalo_684.giz                                                           % Filename of generated initial conditions
 
 CC             13.0  
-V200           179.4    	  % circular velocity v_200 (in km/sec)
-M200	       183.9
-R200	       245.7
-LAMBDA         0.02           % spin parameter          
-MD             0.05           % disk mass fraction      
-MB             0.01           % bulge mass fraction     
+V200           170.28   	    % circular velocity v_200 (in km/sec)
+M200	       157.22
+R200	       233.21
+LAMBDA         0.02             % spin parameter          
+MD             0.0488           % disk mass fraction      
+MB             0.0221           % bulge mass fraction     
 
 MBH            0.0000             % black hole mass fraction. If zero, no black
                                   % hole is generated, otherwise one at the centre
@@ -16,9 +16,9 @@ MBH            0.0000             % black hole mass fraction. If zero, no black
 %JD            0.0
 JD     	       0.05
 
-GasFraction    0.1                % relative content of gas in the disk, the rest is stars
+GasFraction    0.0765             % relative content of gas in the disk, the rest is stars
 DiskHeight     0.06               % thickness of stellar disk in units of radial scale length 
-BulgeSize      0.15                % bulge scale length in units of disk scale length 
+BulgeSize      0.15               % bulge scale length in units of disk scale length 
 
 N_HALO         2000000           % desired number of particles in dark halo 
 N_DISK         500000           % desired number of collisionless particles in disk 
